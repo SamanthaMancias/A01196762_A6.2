@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Ocean View Resort",
+    "location": "Coastal Paradise, California",
+    "phone_number": "555-123-4567",
+    "available_rooms": [
+      {
+        "room_number": 101,
+        "room_type": "King",
+        "price": 200,
+        "is_available": true
+      },
+      {
+        "room_number": 102,
+        "room_type": "Queen",
+        "price": 180,
+        "is_available": true
+      },
+      {
+        "room_number": 103,
+        "room_type": "Double",
+        "price": 150,
+        "is_available": false
+      }
+    ]
+  },
+  {
+    "name": "Mountain Lodge Retreat",
+    "location": "Serene Valley, Colorado",
+    "phone_number": "555-234-5678",
+    "available_rooms": [
+      {
+        "room_number": 201,
+        "room_type": "Queen",
+        "price": 180,
+        "is_available": true
+      },
+      {
+        "room_number": 202,
+        "room_type": "Double",
+        "price": 150,
+        "is_available": true
+      },
+      {
+        "room_number": 203,
+        "room_type": "Double",
+        "price": 150,
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "name": "City Center Inn",
+    "location": "Downtown Metropolis, New York",
+    "phone_number": "555-345-6789",
+    "available_rooms": [
+      {
+        "room_number": 301,
+        "room_type": "Twin",
+        "price": 120,
+        "is_available": false
+      },
+      {
+        "room_number": 302,
+        "room_type": "Twin",
+        "price": 120,
+        "is_available": true
+      },
+      {
+        "room_number": 303,
+        "room_type": "Queen",
+        "price": 180,
+        "is_available": false
+      }
+    ]
+  },
+  {
+    "name": "Tranquil Garden Hotel",
+    "location": "Suburban Oasis, Florida",
+    "phone_number": "555-456-7890",
+    "available_rooms": [
+      {
+        "room_number": 401,
+        "room_type": "King",
+        "price": 200,
+        "is_available": true
+      },
+      {
+        "room_number": 402,
+        "room_type": "Double",
+        "price": 150,
+        "is_available": true
+      },
+      {
+        "room_number": 403,
+        "room_type": "Double",
+        "price": 150,
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "name": "Lakeside Retreat",
+    "location": "Peaceful Lakefront, Oregon",
+    "phone_number": "555-567-8901",
+    "available_rooms": [
+      {
+        "room_number": 501,
+        "room_type": "Queen",
+        "price": 180,
+        "is_available": true
+      },
+      {
+        "room_number": 502,
+        "room_type": "Twin",
+        "price": 120,
+        "is_available": true
+      },
+      {
+        "room_number": 503,
+        "room_type": "Double",
+        "price": 150,
+        "is_available": false
+      }
+    ]
+  }
+]

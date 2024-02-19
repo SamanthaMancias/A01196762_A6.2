@@ -1,0 +1,32 @@
+[
+  {
+    "customer_id": "1001",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone_number": "555-123-4567"
+  },
+  {
+    "customer_id": "1002",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phone_number": "555-234-5678"
+  },
+  {
+    "customer_id": "1003",
+    "name": "Michael Johnson",
+    "email": "michael.johnson@example.com",
+    "phone_number": "555-345-6789"
+  },
+  {
+    "customer_id": "1004",
+    "name": "Emily Brown",
+    "email": "emily.brown@example.com",
+    "phone_number": "555-456-7890"
+  },
+  {
+    "customer_id": "1005",
+    "name": "David Lee",
+    "email": "david.lee@example.com",
+    "phone_number": "555-567-8901"
+  }
+]
